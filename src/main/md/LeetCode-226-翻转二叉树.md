@@ -1,5 +1,5 @@
 ## LeetCode-226-翻转二叉树
-递归的方法
+递归的方法，前序遍历
 ```java
 public TreeNode invertTree(TreeNode root) {
     if (root == null) {
