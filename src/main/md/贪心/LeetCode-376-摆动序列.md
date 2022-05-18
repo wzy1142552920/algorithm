@@ -1,6 +1,7 @@
 ## LeetCode-376-摆动序列.md
 
 贪心：统计所有峰值和谷值
+
 ```java
 public int wiggleMaxLength(int[] nums) {
     int len = nums.length;
